@@ -99,6 +99,12 @@ The script resolves paths relative to its own location, so it works both from th
 4. Annotates month (uppercased, white, centered) and day (black, centered).
 5. Writes `days/${MONTH}-${DAY}[-SUFFIX].png`.
 
+## Credits
+
+- `assets/backgrounds/occasions/halloween.jpg`: Jack-o'-lantern photo by Petar Milošević,
+  via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Halloween_Jack-o%27-lantern.jpg),
+  licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
