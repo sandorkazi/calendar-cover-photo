@@ -1,0 +1,16 @@
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated output
+days/*.png
+!days/.gitkeep
+
+# Temp / misc
+*.img
+*.tmp
+*~
